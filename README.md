@@ -14,4 +14,5 @@ Check the course: https://www.udemy.com/course/the-complete-ruby-on-rails-develo
 
 ## Contact
 Gustavo Camello - gucamello@gmail.com
+
 Linkedin - https://www.linkedin.com/in/gucamello/
