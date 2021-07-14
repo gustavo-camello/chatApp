@@ -1,24 +1,17 @@
-# README
+# ChatApp
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## About the project
 
-Things you may want to cover:
+This is a simple chat app with the intention to learn more about ActionCable and web sockets.
 
-* Ruby version
+This project is part of my journey to be a better Ruby on Rails developer, I developed
+following the instructions from the Udemy Course "The Complete Ruby on Rails Developer Course".
+Check the course: https://www.udemy.com/course/the-complete-ruby-on-rails-developer-course/
 
-* System dependencies
 
-* Configuration
+## Built with
+- Ruby on Rails
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Contact
+Gustavo Camello - gucamello@gmail.com
+Linkedin - https://www.linkedin.com/in/gucamello/
